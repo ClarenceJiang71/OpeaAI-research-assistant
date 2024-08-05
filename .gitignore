@@ -1,0 +1,17 @@
+# macOS generated files
+.DS_Store
+
+# Windows generated files
+Thumbs.db
+
+# Log files
+*.log
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Other specific files or directories to ignore
+__pycache__
